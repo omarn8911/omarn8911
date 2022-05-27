@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @omarn8911
 - 👀 I’m interested in direct job offers from US, Europe, or Oceany companies.
+- 🌎 Re-location is a plus! 
 - 🌱 I’m currently learning more SDET skills and Data Science Skills.
 - 💞️ I’m looking to collaborate on fast growing companies as QA Automation Egineer, or I could be a volunteer for Data Science projects as DS or DE.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/omar-andrés-narváez-ortega-6b3868107/ or Email: omarandres.narvaez@gmail.com 
