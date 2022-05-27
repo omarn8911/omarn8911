@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omarn8911
+- 👋 Hi, I’m Omar Andrés Narváez - @omarn8911
 - 👀 I’m interested in direct job offers from US, Europe, or Oceany companies.
 - 🌎 Re-location is a plus! 
 - 🌱 I’m currently learning more SDET skills and Data Science Skills.
